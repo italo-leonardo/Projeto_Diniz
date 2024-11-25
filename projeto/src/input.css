@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .bg-primary { background-color: #1966FF; }
+    .text-primary { color: #1966FF; }
+    .bg-accent { background-color: #FF7B01; }
+    .text-accent { color: #FF7B01; }
+    .bg-white-custom { background-color: #FFFFFF; }
+    .text-white-custom { color: #000000; }
+}
